@@ -1,0 +1,6 @@
+{
+  "name": "Prudêncio OCR Logistics",
+  "description": "Aplicativo profissional de logística inteligente com OCR e processamento de etiquetas por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
